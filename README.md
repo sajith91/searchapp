@@ -14,6 +14,8 @@ Search app react native
 
 # instructions - Windows
 
+- add the google json file before run the app
+
 -- npm install
 -- react-native link react-native-vector-icons
 -- npx react-native run-android
